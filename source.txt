@@ -1,0 +1,12 @@
+       GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+       This is free software: you are free  to  change  and  redistribute  it.
+       Full documentation <https://www.gnu.org/software/coreutils/cat>
+       GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+       This  is  free  software:  you  are free to change and redistribute it.
+       Full documentation <https://www.gnu.org/software/coreutils/mkdir>
+       GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+       This is free software: you are free  to  change  and  redistribute  it.
+       Full documentation <https://www.gnu.org/software/coreutils/chown>
+       GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+       This is free software: you are free  to  change  and  redistribute  it.
+       Full documentation <https://www.gnu.org/software/coreutils/echo>
